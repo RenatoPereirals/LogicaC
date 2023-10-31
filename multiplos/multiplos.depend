@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683440350 source:c:\temp\ws-code_block\multiplos\main.c
+	<stdio.h>
+	<stdlib.h>
+

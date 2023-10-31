@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683572720 source:c:\temp\ws-code_block\media_pares\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683496326 source:c:\temp\ws-code_block\validacao_de_nota\main.c
+	<stdio.h>
+	<stdlib.h>
+

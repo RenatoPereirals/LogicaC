@@ -1,0 +1,23 @@
+# Compilados
+*.o
+*.out
+*.exe
+
+# Arquivos gerados pelo sistema
+*.log
+*.swp
+.DS_Store
+
+# Arquivos de saída de depuração (geralmente produzidos por gdb)
+gdb.txt
+
+# Dependências de compilação
+.depend
+
+# Arquivos de projeto (gerados por IDEs)
+.idea/
+.vscode/
+
+# Diretórios de saída de compilação
+bin/
+build/

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683430278 source:c:\temp\ws-code_block\troco_verificado\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683441790 source:c:\temp\ws-code_block\coordenadas\main.c
+	<stdio.h>
+	<stdlib.h>
+

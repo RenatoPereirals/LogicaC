@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683426563 source:c:\temp\ws-code_block\duracao\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+

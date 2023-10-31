@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683564800 source:c:\temp\ws-code_block\alturas\main.c
+	<stdio.h>
+	<string.h>
+

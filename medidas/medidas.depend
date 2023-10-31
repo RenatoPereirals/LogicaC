@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683425388 source:c:\temp\ws-code_block\medidas\main.c
+	<stdio.h>
+	<math.h>
+

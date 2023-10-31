@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683422597 source:c:\temp\ws-code_block\circulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
